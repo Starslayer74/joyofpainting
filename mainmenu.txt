@@ -8,7 +8,7 @@ videoid="false"
 icon="https://artworks.thetvdb.com/banners/series/79167/posters/5e936102aa49e_t.jpg"
 fanart="https://artworks.thetvdb.com/banners/fanart/original/79167-2_t.jpg"
 description="The Joy of Painting Season 1"
-
+ 
 name="Season 2"
 section="false"
 search="false"
